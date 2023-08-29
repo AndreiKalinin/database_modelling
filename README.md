@@ -15,7 +15,7 @@ The database relationship diagram is at the picture below.
 
 ## Data source
 movies dataset - https://www.kaggle.com/datasets/utkarshx27/movies-dataset
-actors dataset - https://www.kaggle.com/datasets/darinhawley/imdb-films-by-actor-for-10k-actors
+<br> actors dataset - https://www.kaggle.com/datasets/darinhawley/imdb-films-by-actor-for-10k-actors
 
 ## Instructions
 1. Run `docker-compose up -d` command to start MySQL database in docker.
