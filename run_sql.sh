@@ -1,0 +1,1 @@
+docker exec -it database_modelling_mysql_1 sh -c "mysql -h 127.0.0.1 -u root -p"
